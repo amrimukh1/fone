@@ -5,7 +5,7 @@ pipeline {
             steps {
                 echo "SB"
                 echo "ABC"
-			echo "Stephen pushar till sin branch"
+			          echo "Stephen pushar till sin branch"
             }
         }
     }
